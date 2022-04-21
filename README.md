@@ -1,19 +1,21 @@
 # gazebo_worlds_rbs
 
-**Version 0.0.0** (2022/04/08)
+**Version 0.1.0** (2022/04/21)
 
-This project agglomerates all the world files intended for Gazebo used in 
-different projects. These files represent not only the ones installed by 
+This project agglomerates all the world files intended for Gazebo used in
+different projects. These files represent not only the ones installed by
 Gazebo 9 but also some world files elaborated in other contexts
 
 **With this version, it is possible to do:**
 
 - Initialization of the Git repository
 - Gazebo 9 Worlds (`/usr/share/gazebo-9/worlds`)
+- FEUP DEEC Floor -1 3D model
+  ([`feup-deec_floor(-1)_3d-model.stl`](doc/feup/feup-deec_floor(-1)_3d-model.stl))
 
 **The next version will add these features:**
 
-- FEUP DEEC Floor -1
+- FEUP DEEC Floor -1 Gazebo world
 
 ## Gazebo
 
